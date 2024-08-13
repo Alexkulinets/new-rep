@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/new-rep/static/css/main.b27f87f1.css",
+    "main.js": "/new-rep/static/js/main.038ef602.js",
+    "static/media/Photo_1.png": "/new-rep/static/media/Photo_1.1ad9a57ea79d28c242ab.png",
+    "static/media/Work_2.png": "/new-rep/static/media/Work_2.89a732b75c9ed8ee5183.png",
+    "static/media/Work_1.png": "/new-rep/static/media/Work_1.77cb6f29e584bb9a280b.png",
+    "static/media/Work_3.png": "/new-rep/static/media/Work_3.e9ec316d21c6e979814c.png",
+    "static/media/insta.svg": "/new-rep/static/media/insta.3d68c46cfdb30a63df12cfd1e23c9a94.svg",
+    "static/media/twiter.svg": "/new-rep/static/media/twiter.a32db65d6e8196f04e3966848ec15ed4.svg",
+    "index.html": "/new-rep/index.html",
+    "static/media/in.svg": "/new-rep/static/media/in.05ad1948f9e4becd70e323c2cf6089bc.svg",
+    "static/media/facebook.svg": "/new-rep/static/media/facebook.09acd56da0adb2d6e6e32841041e5a3a.svg",
+    "main.b27f87f1.css.map": "/new-rep/static/css/main.b27f87f1.css.map",
+    "main.038ef602.js.map": "/new-rep/static/js/main.038ef602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27f87f1.css",
+    "static/js/main.038ef602.js"
+  ]
+}
